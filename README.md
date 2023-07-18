@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate Machine Learning in Collaborative Coding and Version Control for AI Enthusiasts</h3>
- <img align ='right' width="450" src="https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif" alt="coding">
+<img align ='right' width="450" src="https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykumar8887&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar8887" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaykumar8887" alt="vijaykumar8887" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ssurya54527886" target="blank"><img src="https://img.shields.io/twitter/follow/ssurya54527886?logo=twitter&style=for-the-badge" alt="ssurya54527886" /></a> </p>
 
