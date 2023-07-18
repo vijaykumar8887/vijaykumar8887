@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">A passionate Machine Learning in Collaborative Coding and Version Control for AI Enthusiasts
-<img align ='right' width="525" src="https://d1aueex22ha5si.cloudfront.net/Conference/1263/BackGround/brain-pic5_animated_synapses-1-1629371355924.gif" alt="coding">
+<img align ='right' width="525" src="https://miro.medium.com/v2/resize:fit:1358/1*fhZsggnseKdBmY3_JonRkA.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykumar8887&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar8887" /> </p>
 
