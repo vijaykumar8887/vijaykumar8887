@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay</h1>
-<h3 align="center">A passionate Machine Learner in Collaborative Coding and Version Control for AI Enthusiasts</h3>
+<h3 align="center">AI enthusiasts with a passion for machine learning in collaborative coding and version control</h3>
 <img align ='right' width="600" src="https://miro.medium.com/v2/resize:fit:1400/1*wJt3v7Gs46uticTUj4y9zg.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaykumar8887&label=Profile%20views&color=0e75b6&style=flat" alt="vijaykumar8887" /> </p>
